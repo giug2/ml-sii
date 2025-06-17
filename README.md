@@ -13,3 +13,7 @@ Sono addestrati e confrontati quattro modelli:
   
 La migliore performance è ottenuta con Logistic Regression (C=1) su TF‑IDF, con circa 76% di accuratezza in training e 72% nel test.  
 Una matrice di confusione normalizzata viene visualizzata per analizzare errori di classificazione.
+  
+## Author
+[Gaglione Giulia](https://github.com/giug2)  
+[Marrapesa Sara](https://github.com/saramarrapesa)
